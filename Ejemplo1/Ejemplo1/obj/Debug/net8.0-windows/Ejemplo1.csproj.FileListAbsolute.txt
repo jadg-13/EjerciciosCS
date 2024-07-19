@@ -1,0 +1,16 @@
+D:\source\Cs\Ejemplo1\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.exe
+D:\source\Cs\Ejemplo1\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.deps.json
+D:\source\Cs\Ejemplo1\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.runtimeconfig.json
+D:\source\Cs\Ejemplo1\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.dll
+D:\source\Cs\Ejemplo1\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.pdb
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.Form1.resources
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.csproj.GenerateResource.cache
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.AssemblyInfoInputs.cache
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.AssemblyInfo.cs
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.csproj.CoreCompileInputs.cache
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.dll
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\refint\Ejemplo1.dll
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.pdb
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.genruntimeconfig.cache
+D:\source\Cs\Ejemplo1\Ejemplo1\obj\Debug\net8.0-windows\ref\Ejemplo1.dll

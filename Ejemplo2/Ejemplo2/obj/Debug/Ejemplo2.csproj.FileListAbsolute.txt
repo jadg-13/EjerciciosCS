@@ -1,0 +1,13 @@
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+D:\source\Cs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+D:\source\Cs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+D:\source\Cs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.formularios.FrmTabla.resources
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.formularios.FrmCirculo.resources
+D:\source\Cs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.formularios.FrmEmpleado.resources
