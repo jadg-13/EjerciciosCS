@@ -26,7 +26,7 @@ namespace Ejemplo2.formularios
                 double.Parse(txtSalario.Text)
                 );
 
-            MessageBox.Show(emp.Nombre + " " + emp.Cargo + " " + emp.Salario.ToString("###,###.#0"));
+            MessageBox.Show(emp.Nombre + " " + emp.Cargo + " " + emp.Salario.ToString("###,###.#0"), "Empleado", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

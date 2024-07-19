@@ -25,8 +25,8 @@ namespace Ejemplo2.formularios
             double radio = Double.Parse(txtRadio.Text);
             double area = circulo.calcArea(radio);
 
-            String msn = "El area es " + area;
-            MessageBox.Show(msn);
+            String msn = "El area es " + area.ToString("#,###,##0.#0");
+            MessageBox.Show(msn, "Area de un circulo", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

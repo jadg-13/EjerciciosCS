@@ -23,7 +23,7 @@ namespace Ejemplo2.formularios
             Tabla tabla = new Tabla();
             int num = int.Parse(txtNumero.Text);
             String tbl = tabla.obtTabla(num);
-            MessageBox.Show(tbl);
+            MessageBox.Show(tbl, "Tabla de Multiplicar", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

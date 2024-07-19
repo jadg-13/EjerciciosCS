@@ -15,7 +15,7 @@ namespace Ejemplo2.modelos
             string tbl = "";
             for(int i = 0; i <= 12; i++)
             {
-                tbl += i + " * " + num + " = " + (i * num) + "\n";
+                tbl += i.ToString("#,##0") + " * " + num.ToString("#,##0") + " = " + (i * num).ToString("#,##0") + "\n";
             }
             return tbl;
         }
